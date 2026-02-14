@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "title": "MemoElle — Fashion • Beauty • Home",
+    "description": "Discover curated fashion, beauty, and home collections designed to add beauty to your everyday life.",
+    "keywords": "fashion, beauty, home decor, modest fashion, Egyptian boutique, luxury",
+    "ogTitle": "MemoElle — Made to add beauty to your everyday life",
+    "ogDescription": "Shop our curated collections of modest fashion, beauty essentials, and home décor."
+  },
+
+  "nav": {
+    "home": "Home",
+    "products": "Collections",
+    "cart": "Cart",
+    "wishlist": "Wishlist",
+    "about": "Our Story",
+    "contact": "Contact",
+    "searchPlaceholder": "Search collections...",
+    "cartEmpty": "Your cart is empty",
+    "wishlistEmpty": "Your wishlist is empty",
+    "signIn": "Sign In",
+    "myAccount": "My Account",
+    "logout": "Sign Out"
+  },
+
+  "hero": {
+    "eyebrow": "New Arrivals — Spring 2026",
+    "headline": "Made to Add Beauty",
+    "headlineAccent": "To Your Everyday Life",
+    "subheadline": "Curated fashion, beauty, and home collections crafted with intention — for the woman who finds poetry in the everyday.",
+    "cta": "Explore Collection",
+    "ctaSecondary": "Our Story",
+    "badge": "Free Shipping Over 500 EGP"
+  },
+
+  "categories": {
+    "title": "Shop by Category",
+    "subtitle": "Three worlds, one aesthetic vision",
+    "fashion": "Fashion",
+    "fashionDesc": "Modest luxury for every occasion",
+    "beauty": "Beauty",
+    "beautyDesc": "Ritual-worthy skincare & cosmetics",
+    "home": "Home",
+    "homeDesc": "Elevated everyday living",
+    "exploreAll": "Explore All"
+  },
+
+  "products": {
+    "title": "Featured Pieces",
+    "subtitle": "Carefully selected for the discerning woman",
+    "addToCart": "Add to Cart",
+    "addToWishlist": "Save",
+    "removeFromWishlist": "Saved",
+    "outOfStock": "Out of Stock",
+    "viewDetails": "View Details",
+    "new": "New",
+    "sale": "Sale",
+    "bestseller": "Bestseller",
+    "filterAll": "All",
+    "filterFashion": "Fashion",
+    "filterBeauty": "Beauty",
+    "filterHome": "Home",
+    "sortBy": "Sort by",
+    "sortNewest": "Newest",
+    "sortPriceAsc": "Price: Low to High",
+    "sortPriceDesc": "Price: High to Low",
+    "sortPopular": "Most Popular",
+    "currency": "EGP",
+    "itemAdded": "Added to cart",
+    "itemSaved": "Added to wishlist",
+    "loading": "Loading collection..."
+  },
+
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is beautifully empty",
+    "emptySubtext": "Time to fill it with things you love",
+    "continueShopping": "Continue Shopping",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "shippingFree": "Free",
+    "shippingNote": "Free shipping on orders over 500 EGP",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "removeItem": "Remove",
+    "quantity": "Qty",
+    "orderSummary": "Order Summary",
+    "promoCode": "Promo Code",
+    "promoPlaceholder": "Enter code (e.g. THANKYOU10)",
+    "promoApply": "Apply",
+    "promoSuccess": "Discount applied!",
+    "promoError": "Invalid or expired code"
+  },
+
+  "checkout": {
+    "pageTitle": "Checkout",
+    "shippingInfo": "Shipping Information",
+    "fullName": "Full Name",
+    "email": "Email Address",
+    "address": "Address",
+    "city": "City",
+    "postalCode": "Postal Code",
+    "paymentMethod": "Payment Method",
+    "creditCard": "Credit Card",
+    "cod": "Cash on Delivery",
+    "placeOrder": "Place Order",
+    "itemCount": "{count} items"
+  },
+
+  "auth": {
+    "welcomeBack": "Welcome Back",
+    "signInTitle": "Sign in to your account",
+    "continueGoogle": "Continue with Google",
+    "orEmail": "Or continue with email",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "signInBtn": "Sign In",
+    "noAccount": "Don't have an account?",
+    "signUpLink": "Sign up"
+  },
+
+  "account": {
+    "dashboard": "My Dashboard",
+    "profile": "My Profile",
+    "orders": "Orders",
+    "wishlist": "Wishlist",
+    "clientServices": "Client Services",
+    "shippingReturns": "Shipping & Returns",
+    "productCare": "Product Care",
+    "trackOrder": "Track your order or request a return.",
+    "careGuide": "Learn how to take care of your items.",
+    "signOut": "Sign Out",
+    "noOrders": "No orders yet."
+  },
+
+  "wishlist": {
+    "title": "Your Wishlist",
+    "empty": "Your wishlist is waiting",
+    "emptySubtext": "Save the pieces that speak to you",
+    "moveToCart": "Add to Cart",
+    "share": "Share Wishlist",
+    "items": "{count} items"
+  },
+
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "shippingQ": "What is your return policy?",
+    "shippingA": "We accept returns within 14 days of delivery for unworn items with tags attached.",
+    "internationalQ": "Do you ship internationally?",
+    "internationalA": "Currently we ship within Egypt, but we are working on expanding globally soon.",
+    "trackQ": "How can I track my order?",
+    "trackA": "You can track your order from your account dashboard under 'Orders'.",
+    "authQ": "Are your products authentic?",
+    "authA": "Yes, all our products are 100% authentic and carefully curated."
+  },
+
+  "about": {
+    "pageTitle": "Our Story",
+    "est": "Est. 2026",
+    "heroTitle": "Our Story",
+    "heroSubtitle": "Weaving elegance into the fabric of everyday life.",
+    "introTitle": "More Than Just a Boutique",
+    "introText": "MemoElle was born from a desire to celebrate the quiet confidence of the modern woman. We believe that modesty and luxury are not opposites, but soulmates.",
+    "founderTitle": "The Art of Details",
+    "founderText1": "Founded in the heart of Cairo, MemoElle draws inspiration from the city's timeless beauty.",
+    "founderText2": "We specialize in three worlds: Fashion that flows, Beauty that glows, and Home accents that inspire.",
+    "values": {
+      "quality": "Quality First",
+      "qualityDesc": "Fabrics and ingredients that stand the test of time.",
+      "authenticity": "Authenticity",
+      "authenticityDesc": "Staying true to our roots.",
+      "community": "Community",
+      "communityDesc": "Building a circle of women who uplift one another."
+    }
+  },
+
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "subtitle": "Real stories from real women"
+  },
+
+  "newsletter": {
+    "eyebrow": "Join the MemoElle Circle",
+    "title": "Beauty Delivered to Your Inbox",
+    "subtitle": "Be the first to know about new arrivals, exclusive offers, and curated style inspiration — delivered with love.",
+    "placeholder": "Your email address",
+    "cta": "Subscribe",
+    "success": "Welcome to the Circle! Check your inbox.",
+    "privacy": "No spam. Unsubscribe anytime.",
+    "discount": "Get 10% off your first order"
+  },
+
+  "footer": {
+    "tagline": "Made to add beauty to your everyday life",
+    "fashionTitle": "Fashion",
+    "beautyTitle": "Beauty",
+    "homeTitle": "Home",
+    "helpTitle": "Help",
+    "companyTitle": "MemoElle",
+    "aboutLink": "Our Story",
+    "sustainLink": "Sustainability",
+    "careersLink": "Careers",
+    "pressLink": "Press",
+    "faqLink": "FAQ",
+    "shippingLink": "Shipping & Returns",
+    "contactLink": "Contact Us",
+    "privacyLink": "Privacy Policy",
+    "termsLink": "Terms of Service",
+    "rights": "© 2026 MemoElle. All rights reserved.",
+    "followUs": "Follow @MemoElleBoutique",
+    "instagramHandle": "@MemoElleBoutique",
+    "madeWith": "Made with ♥ in Egypt",
+    "currency": "EGP",
+    "country": "Egypt"
+  },
+
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try again",
+    "close": "Close",
+    "open": "Open",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "filter": "Filter",
+    "clear": "Clear",
+    "apply": "Apply",
+    "more": "Show more",
+    "less": "Show less",
+    "seeAll": "See all",
+    "new": "New",
+    "free": "Free"
+  }
+}
